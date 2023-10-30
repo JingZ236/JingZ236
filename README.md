@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JingZ236
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on SDE interview mockup
 - 📫 How to reach me ...
 
 <!---
